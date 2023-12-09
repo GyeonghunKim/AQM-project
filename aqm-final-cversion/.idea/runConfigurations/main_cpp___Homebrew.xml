@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="main.cpp - Homebrew" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aqm-final-cversion" TARGET_NAME="main.cpp - Homebrew" CONFIG_NAME="main.cpp - Homebrew">
+    <option name="compilerFile" value="/Library/Developer/CommandLineTools/usr/bin/c++ " />
+    <option name="compilerOptions" value=" -O0 -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -MD -MT" />
+    <option name="sourceFile" value="$PROJECT_DIR$/main.cpp" />
+    <option name="toolchainName" value="Homebrew" />
+    <method v="2">
+      <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
